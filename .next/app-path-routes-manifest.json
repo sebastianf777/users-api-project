@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/countries/page": "/countries",
+  "/users/page": "/users",
+  "/coingecko/page": "/coingecko",
+  "/posts/page": "/posts"
+}

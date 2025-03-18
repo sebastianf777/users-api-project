@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@theme {
+  --color-primary: #2c0000;
+  --color-hover-primary: #c42121;
+  --color-active: #c80808;
+  --color-secondary: #910000;
+  --color-terciary: #A6A8AA;
+}
+body, option{
+  background-color: var(--color-primary);
+  color: white;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s !important;
+  -webkit-text-fill-color: white !important;
+  background-color: var(--color-primary) !important;
+}
