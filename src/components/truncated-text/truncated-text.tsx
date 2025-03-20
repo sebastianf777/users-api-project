@@ -7,8 +7,6 @@ interface TruncatedTextProps {
   maxLength?: number;
 }
 
-// 100 is the default max length unless specified
-
 export default function TruncatedText({ text, maxLength = 100 }: TruncatedTextProps) {
   const [expanded, setExpanded] = useState(false);
   const isTruncated = text.length > maxLength;

@@ -23,7 +23,7 @@ function TruncatedText({ text, maxLength = 100 }) {
             children: text
         }, void 0, false, {
             fileName: "[project]/src/components/truncated-text/truncated-text.tsx",
-            lineNumber: 17,
+            lineNumber: 15,
             columnNumber: 12
         }, this);
     }
@@ -38,13 +38,13 @@ function TruncatedText({ text, maxLength = 100 }) {
                 children: expanded ? 'Show Less' : 'Show More'
             }, void 0, false, {
                 fileName: "[project]/src/components/truncated-text/truncated-text.tsx",
-                lineNumber: 25,
+                lineNumber: 23,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/truncated-text/truncated-text.tsx",
-        lineNumber: 23,
+        lineNumber: 21,
         columnNumber: 5
     }, this);
 }

@@ -74,7 +74,6 @@ export default function NavBar() {
 }
 
 function NavItem({ href, label, onClick, currentPath }: { href: string; label: string; onClick?: () => void; currentPath: string }) {
-    // Determine if this link is active by comparing the current path to the link's href
     const isActive = currentPath === href;
 
     return (

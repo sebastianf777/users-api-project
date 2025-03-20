@@ -1,6 +1,6 @@
 module.exports = {
 
-"[project]/.next-internal/server/app/(overview)/users/[id]/todos/page/actions.js [app-rsc] (server actions loader, ecmascript)": (function(__turbopack_context__) {
+"[project]/.next-internal/server/app/(overview)/users/[id]/posts/page/actions.js [app-rsc] (server actions loader, ecmascript)": (function(__turbopack_context__) {
 
 var { g: global, d: __dirname, m: module, e: exports } = __turbopack_context__;
 {
@@ -877,13 +877,13 @@ async function resolveSearchParams(searchParams) {
     };
 }
 }}),
-"[project]/src/app/(overview)/users/[id]/todos/page.tsx [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"[project]/src/app/(overview)/users/[id]/posts/page.tsx [app-rsc] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
 var { g: global, d: __dirname } = __turbopack_context__;
 {
 __turbopack_context__.s({
-    "default": (()=>TodosPage)
+    "default": (()=>PostsPage)
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$services$2f$user$2e$service$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/services/user.service.ts [app-rsc] (ecmascript)");
@@ -895,9 +895,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$types$2f$search$2d$pa
 ;
 ;
 ;
-async function TodosPage({ params, searchParams }) {
+async function PostsPage({ params, searchParams }) {
     const resolvedParams = await (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$types$2f$search$2d$params$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["resolveSearchParams"])(searchParams);
-    const todos = await (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$services$2f$user$2e$service$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["getTodosByUserId"])(params.id);
+    const posts = await (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$services$2f$user$2e$service$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["getPostsByUserId"])(params.id);
     const allColumns = [
         {
             key: 'id',
@@ -905,34 +905,34 @@ async function TodosPage({ params, searchParams }) {
         },
         {
             key: 'title',
-            header: 'Todo Title'
+            header: 'Post Title'
         },
         {
-            key: 'completed',
-            header: 'Completed'
+            key: 'body',
+            header: 'Content'
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$paginated$2d$table$2f$paginated$2d$table$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["PaginatedTable"], {
-        data: todos,
+        data: posts,
         allColumns: allColumns,
         searchParams: resolvedParams,
-        title: `User ${params.id} Todos`,
-        baseUrl: `/users/${params.id}/todos`,
+        title: `User ${params.id} Posts`,
+        baseUrl: `/users/${params.id}/posts`,
         TableComponent: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$only$2d$table$2f$only$2d$table$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"]
     }, void 0, false, {
-        fileName: "[project]/src/app/(overview)/users/[id]/todos/page.tsx",
+        fileName: "[project]/src/app/(overview)/users/[id]/posts/page.tsx",
         lineNumber: 21,
         columnNumber: 5
     }, this);
 }
 }}),
-"[project]/src/app/(overview)/users/[id]/todos/page.tsx [app-rsc] (ecmascript, Next.js server component)": ((__turbopack_context__) => {
+"[project]/src/app/(overview)/users/[id]/posts/page.tsx [app-rsc] (ecmascript, Next.js server component)": ((__turbopack_context__) => {
 
 var { g: global, d: __dirname } = __turbopack_context__;
 {
-__turbopack_context__.n(__turbopack_context__.i("[project]/src/app/(overview)/users/[id]/todos/page.tsx [app-rsc] (ecmascript)"));
+__turbopack_context__.n(__turbopack_context__.i("[project]/src/app/(overview)/users/[id]/posts/page.tsx [app-rsc] (ecmascript)"));
 }}),
 
 };
 
-//# sourceMappingURL=_f23e771b._.js.map
+//# sourceMappingURL=_7e69c0f2._.js.map

@@ -1,10 +1,11 @@
 {
   "/page": "app/page.js",
   "/(overview)/users/page": "app/(overview)/users/page.js",
-  "/(overview)/users/[id]/page": "app/(overview)/users/[id]/page.js",
-  "/(overview)/users/[id]/todos/page": "app/(overview)/users/[id]/todos/page.js",
+  "/(overview)/posts/page": "app/(overview)/posts/page.js",
   "/(overview)/albums/page": "app/(overview)/albums/page.js",
+  "/(overview)/users/[id]/page": "app/(overview)/users/[id]/page.js",
   "/(overview)/users/[id]/albums/page": "app/(overview)/users/[id]/albums/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/(overview)/posts/page": "app/(overview)/posts/page.js"
+  "/(overview)/users/[id]/todos/page": "app/(overview)/users/[id]/todos/page.js",
+  "/(overview)/users/[id]/posts/page": "app/(overview)/users/[id]/posts/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

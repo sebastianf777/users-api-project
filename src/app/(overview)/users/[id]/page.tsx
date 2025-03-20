@@ -37,7 +37,6 @@ export default async function UserDetailPage({ params }: { params: { id: string 
       <div>
         <p>Email: {user.email}</p>
         <p>City: {user.address.city}</p>
-        {/* Other user info */}
       </div>
     </div>
   );
