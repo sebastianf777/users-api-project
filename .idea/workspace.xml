@@ -6,6 +6,36 @@
   <component name="ChangeListManager">
     <list default="true" id="a33957b0-ec99-4237-96aa-a1f7ed82a668" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/app-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/app-build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/Vsqv3ENYt_G5dmCx4gPtXt5CmPnMR5fPUfmv-QvF7B0/60.1742447512111.ZaYvq5nG34N-0OQ4KP1EJclGMlUHzKV1PMneWV2bORE.Vy8iMTNjZTYtMTkxMTRhYzIxN2Yi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/app-paths-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/app-paths-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_0244ec7e._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_0244ec7e._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_0244ec7e._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_0244ec7e._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_336aef3f._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_336aef3f._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_336aef3f._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_336aef3f._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_923814f7._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_923814f7._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_923814f7._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_923814f7._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_f9e38a1e._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_f9e38a1e._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_f9e38a1e._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_f9e38a1e._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/src_7eb03c21._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/src_7eb03c21._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/src_7eb03c21._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/src_7eb03c21._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/next-font-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/next-font-manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/next-font-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/next-font-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/[root of the server]__59ab9928._.css" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/[root of the server]__59ab9928._.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/[root of the server]__59ab9928._.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/[root of the server]__59ab9928._.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_eb77a4ad._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_eb77a4ad._.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_eb77a4ad._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_eb77a4ad._.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_styles_globals_b52d8e88.css" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_styles_globals_b52d8e88.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_styles_globals_b52d8e88.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_styles_globals_b52d8e88.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(overview)/users/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(overview)/users/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(overview)/users/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(overview)/users/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +105,23 @@
       <workItem from="1742305383015" duration="426000" />
       <workItem from="1742379599113" duration="1233000" />
       <workItem from="1742446373805" duration="1230000" />
+      <workItem from="1742557968078" duration="10317000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/page.tsx</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

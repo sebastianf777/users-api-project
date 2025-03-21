@@ -133,7 +133,7 @@ function FilterForm({ allColumns, filterColumn, filterValue, selectedColumns, it
                 className: "flex gap-4 items-end flex-wrap",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "flex flex-col sm:flex-row  gap-4 ",
+                        className: 'flex flex-col sm:flex-row  gap-4 ',
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: [
@@ -469,9 +469,8 @@ function getPageNumbers(currentPage, totalPages, maxVisible = 7) {
             pages.push(i);
         }
     } else {
-        // Always show first page
         pages.push(1);
-        const windowSize = maxVisible - 2; // excluding first and last page
+        const windowSize = maxVisible - 2;
         let start = Math.max(currentPage - Math.floor(windowSize / 2), 2);
         let end = start + windowSize - 1;
         if (end >= totalPages) {
@@ -505,29 +504,29 @@ const Pagination = ({ currentPage, totalPages, baseUrl })=>{
                         children: page
                     }, void 0, false, {
                         fileName: "[project]/src/components/pagination/pagination.tsx",
-                        lineNumber: 56,
+                        lineNumber: 55,
                         columnNumber: 15
                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         className: 'px-3 py-1',
                         children: "..."
                     }, void 0, false, {
                         fileName: "[project]/src/components/pagination/pagination.tsx",
-                        lineNumber: 65,
+                        lineNumber: 64,
                         columnNumber: 15
                     }, this)
                 }, index, false, {
                     fileName: "[project]/src/components/pagination/pagination.tsx",
-                    lineNumber: 54,
+                    lineNumber: 53,
                     columnNumber: 11
                 }, this))
         }, void 0, false, {
             fileName: "[project]/src/components/pagination/pagination.tsx",
-            lineNumber: 52,
+            lineNumber: 51,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/components/pagination/pagination.tsx",
-        lineNumber: 51,
+        lineNumber: 50,
         columnNumber: 5
     }, this);
 };
@@ -719,7 +718,7 @@ function OnlyTable({ data, columns }) {
                                 if (col.isImage && typeof value === 'string') {
                                     cellContent = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                         src: value,
-                                        alt: "flag",
+                                        alt: 'flag',
                                         width: 30,
                                         height: 30
                                     }, void 0, false, {
@@ -753,7 +752,7 @@ function OnlyTable({ data, columns }) {
                         }, this)) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                             colSpan: columns.length,
-                            className: "{p-2 text-center}",
+                            className: 'p-2 text-center',
                             children: "No se encontraron datos."
                         }, void 0, false, {
                             fileName: "[project]/src/components/only-table/only-table.tsx",
