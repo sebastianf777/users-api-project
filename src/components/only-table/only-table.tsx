@@ -39,7 +39,7 @@ export default function OnlyTable<T>({ data, columns }: OnlyTableProps<T>) {
                                     cellContent = (
                                       <Image
                                         src={value}
-                                        alt="flag"
+                                        alt={'flag'}
                                         width={30}
                                         height={30}
                                       />
@@ -63,7 +63,7 @@ export default function OnlyTable<T>({ data, columns }: OnlyTableProps<T>) {
                     ))
                 ) : (
                     <tr>
-                        <td colSpan={columns.length} className="{p-2 text-center}">
+                        <td colSpan={columns.length} className={'p-2 text-center'}>
                             No se encontraron datos.
                         </td>
                     </tr>

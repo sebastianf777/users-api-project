@@ -54,7 +54,7 @@ export default function NavBar() {
               <button
                 className={'md:hidden text-white mr-3'}
                 onClick={() => setIsMenuOpen((prev) => !prev)}
-                aria-label="Toggle navigation"
+                aria-label={'Toggle navigation'}
               >
                   {isMenuOpen ? <HiX className={'w-11 h-11'} /> : <HiMenu className={'w-11 h-11'} />}
               </button>

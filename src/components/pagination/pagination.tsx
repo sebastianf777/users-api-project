@@ -14,10 +14,9 @@ function getPageNumbers(currentPage: number, totalPages: number, maxVisible: num
       pages.push(i);
     }
   } else {
-    // Always show first page
     pages.push(1);
 
-    const windowSize = maxVisible - 2; // excluding first and last page
+    const windowSize = maxVisible - 2;
     let start = Math.max(currentPage - Math.floor(windowSize / 2), 2);
     let end = start + windowSize - 1;
 

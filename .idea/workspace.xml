@@ -6,26 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a33957b0-ec99-4237-96aa-a1f7ed82a668" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/app-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/app-build-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/app-paths-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/app-paths-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/[root of the server]__11ca0ced._.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_0bee7336._.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_f23e771b._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_f23e771b._.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/_f23e771b._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/_f23e771b._.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/ssr/src_components_truncated-text_truncated-text_tsx_7e70a823._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/ssr/src_components_truncated-text_truncated-text_tsx_7e70a823._.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/next-font-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/next-font-manifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/next-font-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/next-font-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_components_navbar_navbar_tsx_be397db8._.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/src_components_truncated-text_truncated-text_tsx_4548551c._.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/chunks/src_components_truncated-text_truncated-text_tsx_4548551c._.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(overview)/albums/error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(overview)/albums/error.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(overview)/loading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(overview)/loading.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(overview)/users/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(overview)/users/[id]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/truncated-text/truncated-text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/truncated-text/truncated-text.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +74,7 @@
       <workItem from="1742285904924" duration="11300000" />
       <workItem from="1742305383015" duration="426000" />
       <workItem from="1742379599113" duration="1233000" />
-      <workItem from="1742446373805" duration="843000" />
+      <workItem from="1742446373805" duration="1230000" />
     </task>
     <servers />
   </component>

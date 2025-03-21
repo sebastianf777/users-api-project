@@ -23,7 +23,7 @@ export default function FilterForm({
     return (
         <form method={"get"} className={"mb-4 flex flex-col gap-4"}>
             <div className={"flex gap-4 items-end flex-wrap"}>
-                <div className="flex flex-col sm:flex-row  gap-4 ">
+                <div className={'flex flex-col sm:flex-row  gap-4 '}>
                     <div>
                         <label htmlFor={'filterColumn'} className={'block font-semibold mb-1'}>
                             Filter Column:
